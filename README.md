@@ -9,7 +9,7 @@ Key KPIs like Total Sales and Total Profit are also added for quick insights.
 - Line chart for monthly sales trend  
 - Bar chart for region-wise sales  
 - Donut chart for category-wise sales  
-- Top 10 products by sales  
+- Top 5 products by sales  
 - Region slicer for filtering  
 - Clean and consistent formatting
 
